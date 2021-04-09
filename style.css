@@ -1,0 +1,130 @@
+.list{
+    background-color: rgb(61, 59, 59);
+    /* overflow: hidden;
+    position: fixed; */
+    top: 0;
+    width: 100%;
+}
+.items:hover{
+    color: orange;
+    transition: 1s;
+}
+header{
+    background-image: url('images/bg1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.inner-header{
+    width: 100%;
+padding: 300px 0px 80px;
+} 
+
+.first-heading{
+    font-size: 80px;
+    font-weight: 400;
+    color: #fff;
+}
+.first-paragraph{
+    font-size: 25px;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+}
+.button{
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    background: #e8631c;
+    padding: 8px 60px;
+    border: 2px solid #e8631c;
+    border-radius: 4px;
+    margin-top: 20px;
+    transition: 1s;
+}
+.button:hover{
+    color: white;
+    background-color: #303030;
+}
+.bg-2{
+    background-image: url('images/bg2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tour{
+    color: white;
+    font-size: 60px;
+    margin-top: 60px;
+}
+.second-paragraph{
+    color: white;
+    font-size: 20px;
+}
+.card-body{
+    background-color: rgb(56, 54, 54);
+}
+.card-heading{
+    color: white;
+}
+.card-paragraph{
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+.card-deck{
+    margin-bottom: 70px;
+}
+.bg3{
+    background-image: url('images/bg3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.full-card{
+    background-color:rgb(236, 130, 43);
+}
+.price{
+    width: 40%;
+    margin: 60px auto 40px;
+}
+.price-btn{
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    padding: 8px 70px;
+    background: #303030;
+    border-radius: 2px;
+    border: 2px solid #303030;
+    transition: 1s;
+}
+
+.price-btn:hover{
+    background-color: rgb(236, 130, 43);
+}
+.valu{
+    color: white;
+}
+
+.bg4{
+    background-image: url('images/bg4.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.amazing{
+    width: 100%;
+    padding: 330px 0px;
+    margin-left: 10px;
+}
+.dance{
+    font-size: 60px;
+    font-weight: 500;
+    margin-top: 550px;
+    color: #fff;
+}
+.cover{
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 30px;
+}
